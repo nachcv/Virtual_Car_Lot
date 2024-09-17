@@ -1,0 +1,2 @@
+- Manual de usuario tiene lo necesario para que el proyecto funcione.
+- Propuesta contiene la idea principal del proyecto.
