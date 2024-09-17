@@ -1,0 +1,28 @@
+**Manual con todos los detalles necesarios para ejecutar virtual car lot en tu ordenador**
+
+**Requisitos de sistema**
+-Tener instalado Python 3.x en tu ordenador
+-Tener las siguientes bibliotecas instaladas(si no instalar con pip install ...):
+	opencv-python
+	face_recognition
+	tkinter
+	Pillow
+	numpy
+	speech_recognition
+	time
+*Un comando orientativo puede ser pip install opencv-python face_recognition pillow numpy speech_recognition
+
+**Para ejecutarlo**
+escribir en la terminal de la carpeta en la que se encuentre el proyecto "python3 VirtualCarLot.py"(sin comillas)
+
+**Interfaz de Usuario**
+-Boton de Iniciar sesión: Inicia sesión si estas registrado, si no lo estás aparece el botón de registrarse.
+-Boton de Catálogo: Para ver el catálogo de coches.
+-Boton cerrar: Para cerrar la aplicación.
+
+**Consideraciones**
+	-Debes tener la camara correctamente instalada y configurada.
+	-Preferiblemente usar un micro externo, que no sea el de la webcam, porque suele ser muy poco preciso.
+**Autor**
+Ignacio Cuevas Ruiz - Doble Grado Ingeniería Informática y ADE
+	
